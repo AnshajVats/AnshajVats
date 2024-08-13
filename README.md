@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Data structure
 - 💞️ I’m looking to collaborate on data structure related projects
-- 📫 you can to reach me via email avats@dons.usfca.edu 
+- 📫 you can to reach me via email avats@afsu.edu
 
 <!---
 AnshajVats/AnshajVats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
