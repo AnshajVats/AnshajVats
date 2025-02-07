@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AnshajVats
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Data structure
-- 💞️ I’m looking to collaborate on data structure related projects
 - 📫 you can to reach me via email avats@afsu.edu
 
 <!---
