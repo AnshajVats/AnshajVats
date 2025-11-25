@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnshajVats
 - 👀 I’m interested in software development
-- 📫 you can to reach me via email avats@afsu.edu
+- 📫 you can to reach me via email anshajvats2025@gmail.com
 
 <!---
 AnshajVats/AnshajVats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
